@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Souvik Pal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 50px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 2rem;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+            font-size: 1.2rem;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Welcome to Souvik Pal's Portfolio</h1>
+        <p>Click the link below to view my detailed portfolio with all my information and achievements.</p>
+        <a href="portfolio.html" target="_blank">View My Full Portfolio</a>
+    </div>
+</body>
+
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Souvik Pal - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+        }
+
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+
+        .profile-pic {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            display: block;
+            margin: 20px auto;
+        }
+
+        .section {
+            background: #fff;
+            padding: 2rem;
+            margin: 2rem 0;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .section h2 {
+            margin-top: 0;
+            border-bottom: 2px solid #333;
+            padding-bottom: 0.5rem;
+        }
+
+        .section p {
+            margin: 0 0 1rem;
+        }
+
+        .contact-info a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+
+        .footer {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+
+        .footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <h1>Souvik Pal</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <img src="https://indunambi.com/students/souvik_pal.jpg" alt="Souvik Pal" class="profile-pic">
+
+        <section class="section" id="introduction">
+            <h2>About Me</h2>
+            <p>I was born and raised in West Bengal, growing up in a joint family environment. I studied in a Bengali medium school until class 12th. Afterward, I pursued a degree in Mechanical Engineering from Asansol Engineering College, Maulana Abul Kalam Azad University of Technology. I qualified for GATE and initially joined NIT Warangal for an M.Tech in Material Science. However, I later shifted to a more promising opportunity at IIT Madras, where I am currently enrolled in an MS in Entrepreneurship.</p>
+            <p>My key academic project involves a techno-commercial study on food waste management and the future landscape of the alternative feed industry. At IIT Madras, I am part of the Carbon Zero Challenge and NIRMAN, where our team secured funding for our initiatives.</p>
+        </section>
+
+        <section class="section" id="professional-interests">
+            <h2>Professional and Research Interests</h2>
+            <p>My main areas of interest lie in the startup and business domain. I am fascinated by how ventures progress, secure funding, and are analyzed for venture capital investments. Additionally, I have developed a keen interest in waste management and environmental protection, focusing on environmental impact assessment and sustainability. In my leisure time, I keep up with news related to geopolitics, technological advancements, and medical developments.</p>
+            <p>I have some professional experience in business development and financial analysis. I worked at BYJU's Think and Learn Pvt Ltd for a brief period as part of the business development team in a sales role. I also completed a 5-month internship at Finlatics as a Financial Analyst, working on live projects. While I have not yet published any journal papers, I am currently working on a paper discussing the important factors for the growth of Black Soldier Fly larvae.</p>
+        </section>
+
+        <section class="section" id="startup">
+            <h2>Startup: EcoFarm</h2>
+            <p>I am the co-founder of EcoFarm, an Agri-Tech startup focused on creating alternative feed sources for animals like poultry and fish, while simultaneously addressing the issue of food waste management. Our team includes Subhajeet Sikdar, an Environmental Engineer from IIT Madras, Prof. Indumathi M Nambi, a Senior Professor from IIT Madras, and Dr. Devasena S, CTO of the Global Sanitation Center of Excellence at IIT Palakkad.</p>
+            <p>I handle the business side of the startup, and we have secured approximately 7 lakh INR in funding from the Carbon Zero Challenge and NIRMAN. Additionally, I have pitched our project at various platforms, including IITM Research Park and IIT Kharagpur.</p>
+        </section>
+
+        <section class="section" id="extracurricular">
+            <h2>Extracurricular Activities and Personal Interests</h2>
+            <p>I have a deep passion for cooking, which I have pursued regularly since 2016. I enjoy experimenting with different Bengali dishes, Chinese cuisine, baking, and creating experimental dishes. My love for cooking led me to represent IIT Madras in the 5th Inter-IIT Cooking Competition.</p>
+            <p>I am also an avid sports enthusiast, enjoying a variety of outdoor activities such as cricket, football, badminton, sprints, gym workouts, and Taekwondo martial arts. Additionally, I love exploring new places, especially through train journeys, which allow me to experience different cultures and landscapes.</p>
+        </section>
+
+        <section class="section" id="contact">
+            <h2>Contact Information</h2>
+            <p>Feel free to reach out to me via email or connect with me on LinkedIn:</p>
+            <div class="contact-info">
+                <p>Email: <a href="mailto:souvikpal098@gmail.com">souvikpal098@gmail.com</a></p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/souvik-pal-443a06238" target="_blank">www.linkedin.com/in/souvik-pal-443a06238</a></p>
+            </div>
+        </section>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; 2024 Souvik Pal. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
